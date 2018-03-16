@@ -148,3 +148,21 @@ background-color: #fbdd90;
   width: 1000px;
   margin: 0 auto;
 }
+
+#github-icon-winston {
+  position: fixed;
+  right: 20px;
+  top: 95%;
+  height: 30px;
+  z-index: 1;
+  font-size: 20px;
+}
+
+#linkedin-icon-winston {
+  position: fixed;
+  right: 80px;
+  top: 95%;
+  height: 30px;
+  z-index: 1;
+  font-size: 20px;
+}
